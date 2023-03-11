@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: igorsouzadocker/gitopsfc
-  newTag: newTag
+  newTag: 01ffc589f6c589e21ece4317aab3cd3f74aead7f
